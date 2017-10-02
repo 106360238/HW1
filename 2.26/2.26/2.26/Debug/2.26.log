@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+c:\users\user\desktop\106360238_游宗翰\2.26\source\main.c(19): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'int *'
+  2.26.vcxproj -> C:\Users\User\Desktop\106360238_游宗翰\2.26\2.26\2.26\..\..\temp\debug\2.26.exe
+  2.26.vcxproj -> ..\..\temp\debug\2.26.pdb (Partial PDB)
